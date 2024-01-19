@@ -1,0 +1,17 @@
+*
+h3{
+    font-size: 30px;
+}
+h4{
+    font-size: 30px;
+}
+.imgone :hover{
+    -ms-transform: scale(1.3); 
+ -webkit-transform: scale(1.3); 
+  transform: scale(1.3); 
+}
+
+.imgone .head{
+    image-rendering: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_Be%C5%9Fikta%C5%9F_JK.svg/1200px-Logo_of_Be%C5%9Fikta%C5%9F_JK.svg.png;
+    
+}
